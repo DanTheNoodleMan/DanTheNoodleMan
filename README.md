@@ -5,10 +5,10 @@
 # Character sheet
 - :man_student: I'm currently in my final year at the **Polytechnic University of Madrid**
 - :books: I'm studying a Dual Bachelor in **Computer Engineering and Business Administration** 
-- :man_technologist: My focus is on **fullstack web engineering** and I'm also learning **mobile development**. 
+- :man_technologist: My focus is on **fullstack web engineering** and I'm also learning **mobile development**
 - :computer: Connect with me on **<a href="https://www.linkedin.com/in/daniel-r-robertson/">LinkedIn</a>**
 - :crystal_ball: Check out my **<a href="https://dr-robertson.me/">portfolio website</a>**  that has my deployed projects
-- :hammer_and_wrench: I'm currently working on a Water Tracking Reminder App with React Native
+- :hammer_and_wrench: I'm currently working on a **<a href="https://github.com/DanTheNoodleMan/didyoudrinkwater"> Water Tracking App</a>** with React Native with social features
 
 # Armory
 
