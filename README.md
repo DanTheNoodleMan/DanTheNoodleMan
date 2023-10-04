@@ -8,7 +8,7 @@
 - :man_technologist: My focus is on **fullstack web engineering** and I'm also learning **mobile development**
 - :computer: Connect with me on **<a href="https://www.linkedin.com/in/daniel-r-robertson/">LinkedIn</a>**
 - :crystal_ball: Check out my **<a href="https://dr-robertson.me/">portfolio website</a>**  that has my deployed projects
-- :hammer_and_wrench: I'm currently working on a **<a href="https://github.com/DanTheNoodleMan/didyoudrinkwater"> Water Tracking App</a>** with React Native with social features
+- :hammer_and_wrench: I'm currently working on a **<a href="https://github.com/DanTheNoodleMan/didyoudrinkwater"> Water Tracking App</a>** with social features with React Native
 
 # Armory
 
